@@ -1,0 +1,7 @@
+{
+    "email": "seu_email@example.com",
+    "senha": "sua_senha",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "cache_duration": 300
+}
